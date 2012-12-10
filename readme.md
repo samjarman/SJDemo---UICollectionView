@@ -1,0 +1,1 @@
+This is a simple demo app to show the real power of UICollectionView - new in iOS 6.
